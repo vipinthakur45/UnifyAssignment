@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UnifyAssignment</string>
+    <string name="str_frequency">Frequency - </string>
+    <string name="str_up_to_amount">Upto Amount - </string>
+    <string name="str_valid_till">Valid till - </string>
+    <string name= "info_icon">Info Icon</string>
+    <string name= "back_icon">Back Icon</string>
+    <string name= "str_mandate_details">Mandate Details</string>
+    <string name= "str_auto_pay_payment_option">Autopay Payment Options</string>
+    <string name= "str_option_img">Option Image</string>
+    <string name= "str_pay_using">Pay Using</string>
+    <string name= "str_default_account">Default Account</string>
+    <string name= "str_bank_icon">Bank Icon</string>
+</resources>
